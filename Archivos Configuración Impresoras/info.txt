@@ -1,0 +1,8 @@
+En este directorio encontrará la siguiente información:
+
+1) A - MODELOS ORIGINALES: archivos originales de las máscaras a imprimir.
+2) Archivos de impresión preparados para los siguientes modelos de impresoras del grupo.
+   Si la tuya no está incluida, indícalo y la añadiremos al listado.
+    > Prusa i3 - Psique y similares.
+    > Prusa Mk3s.
+    > Creality Ender 3.
